@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "price": 600,
+        "category": "shirt",
+        "name":"casual",
+        "img": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2116967/2017/9/27/11506511538536-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shirt-3781506511538347-1.jpg"
+    },
+    {
+        "id":2,
+        "price": 300,
+        "category": "shirt",
+        "name":"tshirt",
+        "img": "https://rukminim1.flixcart.com/image/880/1056/jpodaq80/t-shirt/m/m/x/m-am-1021m-aelo-original-imafbvhm5yzhuzgs.jpeg?q=50"
+    },
+    {
+        "id":3,
+        "price": 800,
+        "category": "trouser",
+        "name":"pant",
+        "img": "https://www.gluestore.com.au/media/catalog/product/i/m/img_8043_1.jpg"
+    },
+    {
+        "id":4,
+        "price": 400,
+        "category": "trouser",
+        "name":"short",
+        "img": "https://cf.shopee.ph/file/9a253b5f168f2924b9cc9425bec04344"
+    }
+]
